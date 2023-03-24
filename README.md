@@ -1,6 +1,6 @@
 # Using latex with Binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/latex/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/emartineznunez/latex/HEAD)
 
 This repository demonstrates how to install latex alongside matplotlib
 for Binder. This repository also makes use of [JupyterLab Latex](https://github.com/jupyterlab/jupyterlab-latex) to render latex files in Jupyter lab. This requires a few different build components:
